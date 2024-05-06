@@ -16,7 +16,7 @@
 <a href="https://twitter.com/naman___rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naman___rai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/naman-rai-776978261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naman-rai-776978261/" height="30" width="40" /></a>
 <a href="https://instagram.com/naman_rai_0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naman_rai_0808" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3quorj6k9dcz4sm9-oiyna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3quorj6k9dcz4sm9-oiyna" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@NamanRai2431/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3quorj6k9dcz4sm9-oiyna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
